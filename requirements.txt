@@ -1,0 +1,11 @@
+pandas==0.23.0
+numpy==1.16.3
+lightgbm==2.1.1
+sklearn
+matplotlib==3.0.3
+seaborn==0.8.1
+openpyxl==2.5.3
+IPython
+pydotplus==2.0.2
+pymysql==0.8.1
+jieba==0.39
